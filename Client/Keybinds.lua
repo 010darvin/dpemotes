@@ -5,12 +5,16 @@ local emob3 = ""
 local emob4 = ""
 local emob5 = ""
 local emob6 = ""
-local keyb1 = ""
-local keyb2 = ""
-local keyb3 = ""
-local keyb4 = ""
-local keyb5 = ""
-local keyb6 = "" 
+local keyb1 = "" emostes menu 
+local keyb2 = ""noclip
+local keyb3 = ""admin menu 
+local keyb4 = ""homlnda police menu 
+local keyb5 = ""easy admin 
+local keyb6 = ""def menu  
+local keyb7 = ""cardiler menu 
+local keyb8 = ,,police menu 
+local keyb9 = ,,lefd menu 
+local 	
 local Initialized = false
 
 -----------------------------------------------------------------------------------------------------
