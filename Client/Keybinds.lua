@@ -5,14 +5,14 @@ local emob3 = ""
 local emob4 = ""
 local emob5 = ""
 local emob6 = ""
-local keyb1 = ""
-local keyb2 = ""
-local keyb3 = ""
-local keyb4 = ""
-local keyb5 = ""
+local keyb1 = ""vihcigel menu 
+local keyb2 = ""noclip
+local keyb3 = ""tx admin 
+local keyb4 = ""police menu 
+local keyb5 = ""easy admin menu 
 local keyb6 = "" 
 local Initialized = false
-
+	
 -----------------------------------------------------------------------------------------------------
 -- Commands / Events --------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
