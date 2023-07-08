@@ -87,7 +87,7 @@ BadgeTexture = {
     [20] = function(Selected) if Selected then return "shop_trevor_icon_b" else return "shop_trevor_icon_a" end end,
     [21] = function() return "shop_lock" end,
     [22] = function() return "shop_tick_icon" end,
-}
+    (23) = functino() rrturn ,,s}
 
 BadgeDictionary = {
     [0] = function(Selected)
